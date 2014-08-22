@@ -1,0 +1,6 @@
+фев 11, 2014 12:41:58 PM io.selendroid.SelendroidLauncher main
+INFO: ################# Selendroid #################
+фев 11, 2014 12:41:58 PM io.selendroid.SelendroidLauncher lauchServer
+INFO: Starting selendroid-server port 4444
+фев 11, 2014 12:41:58 PM io.selendroid.SelendroidLauncher lauchServer
+SEVERE: Error occurred while building server: io.selendroid.exceptions.SelendroidException: Environment variable 'ANDROID_HOME' was not found!
